@@ -1,0 +1,6 @@
+@HydrationTrackerApi_HostAddress = http://localhost:5046
+
+GET {{HydrationTrackerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
